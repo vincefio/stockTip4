@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.projectListTitle{
+  margin-right: 10px;
+}
+
+.projectDiv{
+  margin-bottom: 10px;
+}
+
+.chart{
+  max-width: 100%;
+}
